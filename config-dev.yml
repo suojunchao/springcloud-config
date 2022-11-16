@@ -1,5 +1,3 @@
 # 我是第一个配置文件
-spring:
-    name: config-dev
 config:
   info: "main branch,SpringCloud-config/config-dev.yml version=12"
